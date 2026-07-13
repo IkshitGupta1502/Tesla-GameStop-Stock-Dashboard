@@ -19,6 +19,7 @@ The project is divided into the following sections:
 Since Plotly interactive figures don’t always render in static GitHub Jupyter notebook previews, the final graphs are also exported as standalone images:
 - tesla_plot.png: Tesla historical share price and revenue
 - gamestop_plot.png: GameStop historical share price and revenue
+
 These PNGs ensure the visualizations are visible directly on GitHub even if the notebook cells don’t render.
 
 **Requirements**
